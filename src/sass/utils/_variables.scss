@@ -1,0 +1,20 @@
+$color-main: #016936; // Лого, секции
+$color-second: #404149; // Заголовки, бэкграунд секций
+$color-light: #fff; // Белый текст
+$color-middle: #999999; // Серый текст
+$color-dark: #000; // Чёрный текст
+$color-bg-prime: #f7f7f7; // Бэкграунд карточки и секций
+
+$font-main: 'Oswald', sans-serif; // Основной текст страницы
+$font-size: 16px;
+$font-weight: 500;
+
+// Точки перелома
+$mobile: 480px;
+$desktop: 1280px;
+
+$shadowItem: 0 4px 4px rgba(0, 0, 0, 0.25);
+$animationDuration: 270ms;
+$animationTimeFunction: cubic-bezier(0.6, 0.2, 0.4, 1);
+
+$function-transition: 250ms ease;
